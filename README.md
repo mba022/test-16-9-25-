@@ -6,7 +6,10 @@ Si escrius un # devant text es torna titul (hi pots ficar 3#)
 # titul c
 (![cat](https://github.com/user-attachments/assets/0d269821-a717-4bfd-934f-806d2bd1a540)
 ### TITUL D
-{
-//ping } 
+<details>
+  <summary>this text should be seen</summary>
+
+  
+</details>this shoudn't be seen</details>
 
 
