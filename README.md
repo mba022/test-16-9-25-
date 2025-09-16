@@ -4,7 +4,9 @@ Si escrius un # devant text es torna titul (hi pots ficar 3#)
 # titul B
 [google](https://mail.google.com/mail/u/0/#all)
 # titul c
-![foto gato, ***PROBA***](![cat](https://github.com/user-attachments/assets/0d269821-a717-4bfd-934f-806d2bd1a540)
+(![cat](https://github.com/user-attachments/assets/0d269821-a717-4bfd-934f-806d2bd1a540)
 ### TITUL D
-'''javascript
+{
+//ping } 
+
 
