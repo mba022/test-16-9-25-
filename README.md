@@ -2,7 +2,7 @@
 # TITUL A
 Si escrius un # devant text es torna titul (hi pots ficar 3#)
 # titul B
-[google](https://mcdonalds.es/mcdelivery)
+[fat ass DONT CLICK](https://mcdonalds.es/mcdelivery)
 # titul c
 (![cat](https://github.com/user-attachments/assets/0d269821-a717-4bfd-934f-806d2bd1a540)
 ### TITUL D
