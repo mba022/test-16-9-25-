@@ -11,7 +11,7 @@ Si escrius un # devant text es torna titul (hi pots ficar 3#)
 this shoudn't be seen
   😿 💣 🔥
 
-  (!(https://github.com/user-attachments/assets/0b404a30-28ae-4db9-8a1c-065411249d8b)
+  (![pop](https://github.com/user-attachments/assets/0b404a30-28ae-4db9-8a1c-065411249d8b)
 
 </details>final de la llista</details>
 
