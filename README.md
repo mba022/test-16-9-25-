@@ -9,7 +9,5 @@ Si escrius un # devant text es torna titul (hi pots ficar 3#)
 <details>
   <summary>this text should be seen</summary>
 this shoudn't be seen
-  
+  😿 💣 🔥
 </details>final de la llista</details>
-
-
