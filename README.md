@@ -8,8 +8,8 @@ Si escrius un # devant text es torna titul (hi pots ficar 3#)
 ### TITUL D
 <details>
   <summary>this text should be seen</summary>
-
+this shoudn't be seen
   
-</details>this shoudn't be seen</details>
+</details>final de la llista</details>
 
 
